@@ -1,0 +1,70 @@
+header {
+    background-color: #66CCCC; 
+    widht: 800; 
+    height: 200;
+}
+footer {
+    background-color: #66cccc; 
+    width: 800;
+    height: 200;
+}
+
+#cel1kolom1 {
+    background-color: #66CC99;
+    color: #663399;
+}
+#cel1kolom2 {
+    background-color: #66CCFF;
+}
+#cel1kolom3 {
+    background-color: #66CC33;
+    color: #CC3366;
+}
+#cel1kolom4 {
+    background-color: #66CCCC;
+}
+
+#cel2kolom1 {
+    background-color: #6699FF;
+    color: #CCCCCC;
+}
+#cel2kolom2 {
+    background-color: #669999;
+}
+#cel2kolom3 {
+    background-color: #6699CC;
+    color: #CCFF00;
+}
+#cel2kolom4 {
+    background-color: #669966;
+}
+
+#cel3kolom1 {
+    background-color: #FF00FF;
+    color: #5ba318;
+}
+#cel3kolom2 {
+    background-color: #FF9999;
+}
+#cel3kolom3 {
+    background-color: #FF99CC;
+    color: #3300FF;
+}
+#cel3kolom4 {
+    background-color: #66FF66;
+}
+
+#cel4kolom1 {
+    background-color: #FF0000;
+    color: #359f18;
+}
+#cel4kolom2 {
+    background-color: #5b1b79;
+}
+#cel4kolom3 {
+    background-color: #1c5a16;
+    color: #af2a76;
+}
+#cel4kolom4 {
+    background-color: #deac19;
+}
